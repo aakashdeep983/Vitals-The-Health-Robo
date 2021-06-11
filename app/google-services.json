@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537236237663",
+    "project_id": "healthrobo-f09b5",
+    "storage_bucket": "healthrobo-f09b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537236237663:android:223d7e240ab2fdc18ddaea",
+        "android_client_info": {
+          "package_name": "com.aakash.healthrobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537236237663-t5g5abuh60s3497hbts35o2cahg9vl6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyt1nK-EPr5wUKGbC6SI0H8neekgb_D5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537236237663-t5g5abuh60s3497hbts35o2cahg9vl6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
